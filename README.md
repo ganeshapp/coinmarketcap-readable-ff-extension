@@ -11,4 +11,11 @@ Loading Extension temporarily:
 https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
 
 
+Addon:
+https://addons.mozilla.org/en-US/firefox/addon/coinmarketcap-width/
+
+
+Firefox Dev Profile:
+https://addons.mozilla.org/en-US/firefox/user/16878545/
+
 
